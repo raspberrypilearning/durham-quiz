@@ -28,7 +28,7 @@ language: python
 print('The forecast is' weather)
 --- /code ---
 
-- (x) T
+- (x) 
 
 --- /choices ---
 
