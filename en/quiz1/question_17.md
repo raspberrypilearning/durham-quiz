@@ -29,7 +29,7 @@ when this sprite
 ```blocks3
 broadcast
 ```
-- (X)
+- (x)
 ```blocks3
 else
 ```
