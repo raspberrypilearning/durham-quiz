@@ -37,7 +37,7 @@ What will be the value of the `name`{:class="block3variables"} variable after th
 
   --- /feedback ---
 
-- (x) Bobo
+- (x) Divya
 
   --- feedback ---
 
