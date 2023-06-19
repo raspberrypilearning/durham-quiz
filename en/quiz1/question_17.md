@@ -1,4 +1,3 @@
-
 --- question ---
 
 ---
@@ -21,8 +20,6 @@ Which block would you use to `change y by ()`{:class='block3motion'} `1` at all 
 
 --- choices ---
 
-- ( )
-
 ```blocks3
 when this sprite 
 ```
@@ -33,11 +30,14 @@ when this sprite
 broadcast
 ```
 
-- (x)
+- ( )
+
 
 ```blocks3
 else
 ```
+
+- (x)
 
 --- /choices ---
 
