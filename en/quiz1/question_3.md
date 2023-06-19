@@ -30,7 +30,7 @@ print('The forecast is' weather)
 
 --- /code ---
 
-- ( )
+- (x)
 
 --- /choices ---
 
