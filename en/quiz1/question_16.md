@@ -24,7 +24,7 @@ If the value of the `score`{:class="block3variables"} variable is `9`, what will
 
 - (x) The sprite will `say`{:class="block3looks"} `Still on Level 1!`
 
-- ( ) The `score`{:class="block3variables"} variable will be set to 10
+- ( ) The `score`{:class="block3variables"} variable will be set to `10`
 
 --- /choices ---
 
