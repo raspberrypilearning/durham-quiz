@@ -19,6 +19,18 @@ Which code correctly uses the `weather` variable and outputs `The forecast is` �
 
 ![The output area from the editor with Hello ☂🌧⚡ showing.](images/quiz_3.png)
 
+--- choices ---
+
+--- code ---
+---
+language: python
+---
+
+print('The forecast is' weather)
+
+--- /code ---
+
+- ( )
 
 --- /choices ---
 
