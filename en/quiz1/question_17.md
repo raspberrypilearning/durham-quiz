@@ -4,7 +4,7 @@
 legend: Question 17 of 24
 ---
 
-You use this script to control what happens when a sprite touches a button:
+You use this script to control what happens when a sprite touches a button
 
 ```blocks3
 when flag clicked
