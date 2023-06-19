@@ -14,8 +14,8 @@ steps:
     knowledge_quiz:
       path: quiz1
       version: 1
-      questions: 3
-      passing_score: 3
+      questions: 24
+      passing_score: 24
     completion:
       - external
   - title: What next?
