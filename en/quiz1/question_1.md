@@ -30,12 +30,6 @@ In a Scratch project, you can create and used variables. Which of these values c
 
  --- /feedback ---
 
-- ( ) None of them
-
- --- feedback ---
-
- --- /feedback ---
-
 --- /choices ---
 
 --- /question ---

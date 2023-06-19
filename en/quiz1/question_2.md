@@ -19,12 +19,6 @@ What will be the value of the `name`{:class="block3variables"} variable after th
 
 --- choices ---
 
-- ( )  name
-
-  --- feedback ---
-
-  --- /feedback ---
-
 - ( ) ???
  
   --- feedback ---
