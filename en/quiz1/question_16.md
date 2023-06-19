@@ -9,7 +9,7 @@ You use this script to control what happens when the player clicks on a sprite:
 
 ```blocks3
 when this sprite clicked
-if <(score)>  [10]> then 
+if <(score)> [10]> then 
 say [Level 2 activated!] for [2] seconds 
 else
 say [Still on Level 1!] for [2] seconds 
