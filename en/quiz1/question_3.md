@@ -21,14 +21,14 @@ Which code correctly uses the `weather` variable and outputs `The forecast is` â
 
 --- choices ---
 
+- ( )
+
 --- code ---
 ---
 language: python
 ---
 print('The forecast is' weather)
 --- /code ---
-
-- (x) a
 
 --- /choices ---
 
