@@ -4,7 +4,7 @@
 legend: Question 2 of 24
 ---
 
-A project has this script to `ask`{:class="block3sensing"} the user for their name:
+A project has this script to `ask`{:class="block3sensing"} the user for their name
 
 ```blocks3
 when flag clicked

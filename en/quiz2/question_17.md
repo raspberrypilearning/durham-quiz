@@ -1,11 +1,10 @@
-
 --- question ---
 
 ---
 legend: Question 17 of 24
 ---
 
-You use this script to control what happens when a sprite touches a button:
+You use this script to control what happens when a sprite touches a button
 
 ```blocks3
 when flag clicked
@@ -17,25 +16,26 @@ if <touching [down button v]> then
 change y by (-10)
 ```
 
-Which block would you use to `change y by`{:class="block3motion"} `1` at all other times?
+Which block would you use to `change y by ()`{:class='block3motion'} `1` at all other times?
 
 --- choices ---
 
 - ( )
 
 ```blocks3
-when this sprite 
+when this sprite clicked
 ```
 
 - ( )
 
 ```blocks3
-broadcast
+broadcast [change y v]
 ```
-
+ 
 - (x)
 
 ```blocks3
+if <> then
 else
 ```
 

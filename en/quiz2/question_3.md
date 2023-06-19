@@ -4,7 +4,7 @@
 legend: Question 3 of 24
 ---
 
-This code sets the `world` variable to contain the text '☂🌧⚡':
+This code sets the `world` variable to contain the text '☂🌧⚡'
 
 --- code ---
 ---

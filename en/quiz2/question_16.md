@@ -5,7 +5,7 @@
 legend: Question 16 of 24
 ---
 
-You use this script to control what happens when the player clicks on a sprite:
+You use this script to control what happens when the player clicks on a sprite
 
 ```blocks3
 when this sprite clicked
