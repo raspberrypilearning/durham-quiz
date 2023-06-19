@@ -30,6 +30,17 @@ language: python
 print('The forecast is' weather)
 --- /code ---
 
+- (x)
+
+--- code ---
+---
+language: python
+---
+
+print('The forecast is', weather)
+
+--- /code ---
+
 --- /choices ---
 
 --- /question ---
