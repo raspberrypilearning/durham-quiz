@@ -34,7 +34,7 @@ print('The forecast is' weather)
 
  --- /feedback ---
 
-- ( ) 
+- ( )
 
 --- code ---
 ---
