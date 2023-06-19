@@ -21,15 +21,18 @@ Which block would you use to `change y by`{:class="block3motion"} `1` at all oth
 
 --- choices ---
 
-- ( ) ```blocks3
-  when this sprite 
-  ```
-- ( ) ```blocks3
-  broadcast
-  ```
-- ( ) ```blocks3
-  else
-  ```
+- ( )
+```blocks3
+when this sprite 
+```
+- ( )
+```blocks3
+broadcast
+```
+- ( )
+```blocks3
+else
+```
 --- /choices ---
 
 --- /question ---
