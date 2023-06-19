@@ -1,101 +1,47 @@
-## Quick quiz
-
-Answer the three questions. There are hints to guide you to the correct answer.
-
-When you have answered each question, click on **Check my answer**. 
-
-Have fun!
-
 --- question ---
----
-legend: Question 1 of 24
----
 
-This code sets the `world` variable to contain the text '🌍🌎🌏' (the three different world emoji):
-
---- code ---
 ---
-language: python
+legend: Question 2 of 24
 ---
 
-world = '🌍🌎🌏'
+A project has this script to `ask`{:class="block3sensing"} the user for their name:
 
---- /code ---
+```blocks3
+when flag clicked
+set [name v] to [???] 
+ask [What's your name?] and wait 
+set [name v] to (answer)
+```
 
-Which code correctly uses the `world` variable and outputs Hello 🌍🌎🌏?
+![](images/q1-chatbot.png)
 
-![The output area from the Trinket editor with Hello 🌍🌎🌏 showing.](images/quiz1.png)
+What will be the value of the `name`{:class="block3variables"} variable after the player clicks on the tick (checkmark) and the script finishes?
 
 --- choices ---
 
-- ( ) 
+- ( )  name
 
---- code ---
----
-language: python
----
+  --- feedback ---
 
-output('Hello' world)
+  --- /feedback ---
 
---- /code ---
+- ( ) ???
+ 
+  --- feedback ---
 
- --- feedback ---
+  --- /feedback ---
 
- Not quite, `output` is not the way to output messages to the screen.
+- ( ) answer
 
- --- /feedback ---
+  --- feedback ---
 
+  --- /feedback ---
 
-- ( ) 
+- (x) Bobo
 
---- code ---
----
-language: python
----
+  --- feedback ---
 
-print('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
-
-- (x) 
-
---- code ---
----
-language: python
----
-
-print('Hello', world)
-
---- /code ---
-
- --- feedback ---
-
- That's correct, in Python `print` outputs messages to the screen. The text output is inside single quotes `'` , a comma separates the two items and provides a space, then the `world` variable is called, which stores the earth emoji 🌍🌎🌏, like in your project.
-
- --- /feedback ---
-
-- ( )
-
---- code ---
----
-language: python
----
-
-print(Hello, world)
-
---- /code ---
-
- --- feedback ---
-
-  Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
+  --- /feedback ---
 
 --- /choices ---
 
