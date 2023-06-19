@@ -20,36 +20,24 @@ Which block would you use to `change y by ()`{:class='block3motion'} `1` at all 
 
 --- choices ---
 
+- ( )
+
 ```blocks3
 when this sprite clicked
 ```
- --- feedback ---
-
- --- /feedback ---
 
 - ( )
 
 ```blocks3
 broadcast [change y v]
 ```
-
- --- feedback ---
-
- --- /feedback ---
  
-- ( )
-
+- (x)
 
 ```blocks3
 if <> then
 else
 ```
-
- --- feedback ---
-
- --- /feedback ---
- 
-- (x)
 
 --- /choices ---
 
