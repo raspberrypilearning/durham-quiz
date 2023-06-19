@@ -1,101 +1,30 @@
-## Quick quiz
-
-Answer the three questions. There are hints to guide you to the correct answer.
-
-When you have answered each question, click on **Check my answer**. 
-
-Have fun!
 
 --- question ---
----
-legend: Question 1 of 24
----
 
-This code sets the `world` variable to contain the text '🌍🌎🌏' (the three different world emoji):
-
---- code ---
 ---
-language: python
+legend: Question 16 of 24
 ---
 
-world = '🌍🌎🌏'
+You use this script to control what happens when the player clicks on a sprite:
 
---- /code ---
+```blocks3
+when this sprite clicked
+if <(score)> [10]> then 
+say [Level 2 activated!] for [2] seconds 
+else
+say [Still on Level 1!] for [2] seconds 
+end
+```
 
-Which code correctly uses the `world` variable and outputs Hello 🌍🌎🌏?
-
-![The output area from the Trinket editor with Hello 🌍🌎🌏 showing.](images/quiz1.png)
+If the value of the `score`{:class="block3variables"} variable is `9`, what will happen when the player clicks on the sprite?
 
 --- choices ---
 
-- ( ) 
+- ( ) The sprite will `say`{:class="block3looks"} `Level 2 activated!`
 
---- code ---
----
-language: python
----
+- (x) The sprite will `say`{:class="block3looks"} `Still on Level 1!`
 
-output('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, `output` is not the way to output messages to the screen.
-
- --- /feedback ---
-
-
-- ( ) 
-
---- code ---
----
-language: python
----
-
-print('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
-
-- (x) 
-
---- code ---
----
-language: python
----
-
-print('Hello', world)
-
---- /code ---
-
- --- feedback ---
-
- That's correct, in Python `print` outputs messages to the screen. The text output is inside single quotes `'` , a comma separates the two items and provides a space, then the `world` variable is called, which stores the earth emoji 🌍🌎🌏, like in your project.
-
- --- /feedback ---
-
-- ( )
-
---- code ---
----
-language: python
----
-
-print(Hello, world)
-
---- /code ---
-
- --- feedback ---
-
-  Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
+- ( ) The `score`{:class="block3variables"} variable will be set to `10`
 
 --- /choices ---
 
