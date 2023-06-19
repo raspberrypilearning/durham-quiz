@@ -1,102 +1,35 @@
-## Quick quiz
-
-Answer the three questions. There are hints to guide you to the correct answer.
-
-When you have answered each question, click on **Check my answer**. 
-
-Have fun!
 
 --- question ---
----
-legend: Question 1 of 24
----
 
-This code sets the `world` variable to contain the text '🌍🌎🌏' (the three different world emoji):
-
---- code ---
 ---
-language: python
+legend: Question 17 of 24
 ---
 
-world = '🌍🌎🌏'
+You use this script to control what happens when a sprite touches a button:
 
---- /code ---
+```blocks3
+when flag clicked
+forever
+if <touching [up button v]> then
+change y by (10)
+end
+if <touching [down button v]> then
+change y by (-10)
+```
 
-Which code correctly uses the `world` variable and outputs Hello 🌍🌎🌏?
-
-![The output area from the Trinket editor with Hello 🌍🌎🌏 showing.](images/quiz1.png)
+Which block would you use to `change y by`{:class="block3motion"} `1` at all other times?
 
 --- choices ---
 
-- ( ) 
-
---- code ---
----
-language: python
----
-
-output('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, `output` is not the way to output messages to the screen.
-
- --- /feedback ---
-
-
-- ( ) 
-
---- code ---
----
-language: python
----
-
-print('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
-
-- (x) 
-
---- code ---
----
-language: python
----
-
-print('Hello', world)
-
---- /code ---
-
- --- feedback ---
-
- That's correct, in Python `print` outputs messages to the screen. The text output is inside single quotes `'` , a comma separates the two items and provides a space, then the `world` variable is called, which stores the earth emoji 🌍🌎🌏, like in your project.
-
- --- /feedback ---
-
-- ( )
-
---- code ---
----
-language: python
----
-
-print(Hello, world)
-
---- /code ---
-
- --- feedback ---
-
-  Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
-
+- ( ) ```blocks3
+  when this sprite 
+  ```
+- ( ) ```blocks3
+  broadcast
+  ```
+- ( ) ```blocks3
+  else
+  ```
 --- /choices ---
 
 --- /question ---
