@@ -4,7 +4,7 @@
 legend: Question 3 of 24
 ---
 
-This code sets the `weather` variable to contain the text '☂🌧⚡': 
+This code sets the `weather` variable to contain the text '☂🌧⚡'
 
 --- code ---
 ---
@@ -15,7 +15,7 @@ weather = '☂🌧⚡'
 
 --- /code ---
 
-Which code correctly uses the `weather` variable and outputs `The forecast is` ☂🌧⚡ ?
+Which code correctly uses the `weather` variable and outputs `The forecast is` ☂🌧⚡ 
 
 ![The output area from the editor with Hello ☂🌧⚡ showing.](images/quiz_3.png)
 
