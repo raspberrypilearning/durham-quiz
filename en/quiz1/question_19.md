@@ -29,4 +29,6 @@ next costume
 move (2) steps
 ```
 
+--- /choices ---
+
 --- /question ---
