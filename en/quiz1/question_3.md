@@ -17,27 +17,9 @@ weather = '☂🌧⚡'
 
 Which code correctly uses the `weather` variable and outputs `The forecast is` ☂🌧⚡?
 
-![The output area from the Trinket editor with Hello ☂🌧⚡ showing.](images/quiz1.png)
+![The output area from the editor with Hello ☂🌧⚡ showing.](images/quiz_3.png)
 
 --- choices ---
-
-- ( ) 
-
---- code ---
----
-language: python
----
-
-output('The forecast is' weather)
-
---- /code ---
-
- --- feedback ---
-
- --- /feedback ---
-
-
-- ( ) 
 
 --- code ---
 ---
@@ -52,7 +34,7 @@ print('The forecast is' weather)
 
  --- /feedback ---
 
-- (x) 
+- ( ) 
 
 --- code ---
 ---
@@ -67,7 +49,7 @@ print('The forecast is', weather)
 
  --- /feedback ---
 
-- ( )
+- (x)
 
 --- code ---
 ---

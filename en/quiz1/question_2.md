@@ -13,7 +13,7 @@ ask [What's your name?] and wait
 set [name v] to (answer)
 ```
 
-![](images/q1-chatbot.png)
+![](images/quiz_1.png)
 
 What will be the value of the `name`{:class="block3variables"} variable after the player clicks on the tick (checkmark) and the script finishes?
 
