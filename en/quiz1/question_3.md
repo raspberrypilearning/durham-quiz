@@ -27,7 +27,7 @@ Which code correctly uses the `weather` variable and outputs `The forecast is` â
 language: python
 ---
 
-print('The forecast is' weather)
+
 
 --- /code ---
 
