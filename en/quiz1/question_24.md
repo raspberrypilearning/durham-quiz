@@ -9,18 +9,27 @@ Which one of these calls a function called `fill` to run?
 --- choices ---
 
 - ( ) 
---- code —
+--- code ---
+---
+language: python
+---
 def fill ():
 --- /code ---
 
 - ( ) 
---- code —
+--- code ---
+---
+language: python
+---
 if function == fill:
   print(fill)
 --- /code ---
 
 - (x) 
 --- code ---
+---
+language: python
+---
 fill()
 --- /code ---
 
