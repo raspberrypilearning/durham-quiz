@@ -1,102 +1,36 @@
 ## Quick quiz
 
-Answer the three questions. There are hints to guide you to the correct answer.
-
-When you have answered each question, click on **Check my answer**. 
-
-Have fun!
-
 --- question ---
----
-legend: Question 1 of 24
----
 
-This code sets the `world` variable to contain the text '🌍🌎🌏' (the three different world emoji):
-
---- code ---
 ---
-language: python
+legend: Question 4 of 24
 ---
 
-world = '🌍🌎🌏'
+A Scratch project uses these blocks. 
 
---- /code ---
+```blocks3
+when flag clicked
+say [Hi!] for (3) seconds
+set [name v] to [???] 
+ask [What's your name?] and wait 
+set [name v] to (answer)
+say [Your name is] for (1) seconds
+say (answer) for (2) seconds
+```
 
-Which code correctly uses the `world` variable and outputs Hello 🌍🌎🌏?
+Vasu enters her name.
 
-![The output area from the Trinket editor with Hello 🌍🌎🌏 showing.](images/quiz1.png)
+How long is Vasu's name shown for?
 
 --- choices ---
 
-- ( ) 
+- ( ) 1 second
 
---- code ---
----
-language: python
----
+- (x) 2 seconds
 
-output('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, `output` is not the way to output messages to the screen.
-
- --- /feedback ---
-
-
-- ( ) 
-
---- code ---
----
-language: python
----
-
-print('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
-
-- (x) 
-
---- code ---
----
-language: python
----
-
-print('Hello', world)
-
---- /code ---
-
- --- feedback ---
-
- That's correct, in Python `print` outputs messages to the screen. The text output is inside single quotes `'` , a comma separates the two items and provides a space, then the `world` variable is called, which stores the earth emoji 🌍🌎🌏, like in your project.
-
- --- /feedback ---
-
-- ( )
-
---- code ---
----
-language: python
----
-
-print(Hello, world)
-
---- /code ---
-
- --- feedback ---
-
-  Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
+- ( ) 3 seconds
 
 --- /choices ---
 
 --- /question ---
+
