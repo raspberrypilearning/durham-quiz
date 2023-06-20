@@ -33,7 +33,7 @@ else:
 
 - (x) `Speed not recognised`
 
-- ( ) ‘Pretty fast’
+- ( ) `Pretty fast`
 
 --- /choices ---
 

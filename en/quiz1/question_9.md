@@ -1,84 +1,12 @@
-## Quick quiz
-
-Answer the three questions. There are hints to guide you to the correct answer.
-
-When you have answered each question, click on **Check my answer**. 
-
-Have fun!
-
 --- question ---
----
-legend: Question 1 of 24
----
 
-This code sets the `world` variable to contain the text '🌍🌎🌏' (the three different world emoji):
-
---- code ---
 ---
-language: python
+legend: Question 9 of 24
 ---
 
-world = '🌍🌎🌏'
-
---- /code ---
-
-Which code correctly uses the `world` variable and outputs Hello 🌍🌎🌏?
-
-![The output area from the Trinket editor with Hello 🌍🌎🌏 showing.](images/quiz1.png)
+Which one of these is used to display the text `Hello World!` to the user?
 
 --- choices ---
-
-- ( ) 
-
---- code ---
----
-language: python
----
-
-output('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, `output` is not the way to output messages to the screen.
-
- --- /feedback ---
-
-
-- ( ) 
-
---- code ---
----
-language: python
----
-
-print('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
-
-- (x) 
-
---- code ---
----
-language: python
----
-
-print('Hello', world)
-
---- /code ---
-
- --- feedback ---
-
- That's correct, in Python `print` outputs messages to the screen. The text output is inside single quotes `'` , a comma separates the two items and provides a space, then the `world` variable is called, which stores the earth emoji 🌍🌎🌏, like in your project.
-
- --- /feedback ---
 
 - ( )
 
@@ -86,16 +14,29 @@ print('Hello', world)
 ---
 language: python
 ---
-
-print(Hello, world)
+show("Hello World!")
 
 --- /code ---
 
- --- feedback ---
+- (x)
 
-  Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
+--- code ---
+---
+language: python
+---
+print("Hello World!")
 
- --- /feedback ---
+--- /code ---
+
+- ( )
+
+--- code ---
+---
+language: python
+---
+output("Hello World!")
+
+--- /code ---
 
 --- /choices ---
 

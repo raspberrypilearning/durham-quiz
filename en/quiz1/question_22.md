@@ -1,101 +1,29 @@
-## Quick quiz
-
-Answer the three questions. There are hints to guide you to the correct answer.
-
-When you have answered each question, click on **Check my answer**. 
-
-Have fun!
-
 --- question ---
----
-legend: Question 1 of 24
----
 
-This code sets the `world` variable to contain the text '🌍🌎🌏' (the three different world emoji):
-
---- code ---
 ---
-language: python
+legend: Question 22 of 24
 ---
 
-world = '🌍🌎🌏'
+In your project, you have used these blocks on a button sprite. 
 
---- /code ---
+```blocks3
+when this sprite clicked 
+broadcast (jump v)
+```
 
-Which code correctly uses the `world` variable and outputs Hello 🌍🌎🌏?
-
-![The output area from the Trinket editor with Hello 🌍🌎🌏 showing.](images/quiz1.png)
+Which sprite or sprites would jump when the button is clicked?
 
 --- choices ---
 
-- ( ) 
+- ( )  Any sprites that are also a button
+  
+- (x)  All sprites that use these blocks: 
+```blocks3 
+when I receive (jump v)
+change y by (-10)
+```
 
---- code ---
----
-language: python
----
-
-output('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, `output` is not the way to output messages to the screen.
-
- --- /feedback ---
-
-
-- ( ) 
-
---- code ---
----
-language: python
----
-
-print('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
-
-- (x) 
-
---- code ---
----
-language: python
----
-
-print('Hello', world)
-
---- /code ---
-
- --- feedback ---
-
- That's correct, in Python `print` outputs messages to the screen. The text output is inside single quotes `'` , a comma separates the two items and provides a space, then the `world` variable is called, which stores the earth emoji 🌍🌎🌏, like in your project.
-
- --- /feedback ---
-
-- ( )
-
---- code ---
----
-language: python
----
-
-print(Hello, world)
-
---- /code ---
-
- --- feedback ---
-
-  Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
+- ( )  All sprites (and the background)
 
 --- /choices ---
 
