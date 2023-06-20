@@ -6,7 +6,7 @@
 legend: Question 1 of 24
 ---
 
-In a Scratch project, you can create and used variables. Which of these values can be stored in a variable? 
+In a Scratch project, you can create and use variables. Which of these values can be stored in a variable? 
 
 `0` , `False` , `1000` , `Aadya`
 
