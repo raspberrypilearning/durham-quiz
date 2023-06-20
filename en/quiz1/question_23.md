@@ -1,101 +1,39 @@
-## Quick quiz
-
-Answer the three questions. There are hints to guide you to the correct answer.
-
-When you have answered each question, click on **Check my answer**. 
-
-Have fun!
-
 --- question ---
----
-legend: Question 1 of 24
----
 
-This code sets the `world` variable to contain the text '🌍🌎🌏' (the three different world emoji):
-
---- code ---
 ---
-language: python
+legend: Question 23 of 24
 ---
 
-world = '🌍🌎🌏'
+In your project, you have used these blocks on a button sprite. 
 
---- /code ---
+```blocks3
+define hide and move
+set (ghost v) effect to (100)
+go to (random position v)
+```
 
-Which code correctly uses the `world` variable and outputs Hello 🌍🌎🌏?
-
-![The output area from the Trinket editor with Hello 🌍🌎🌏 showing.](images/quiz1.png)
+Which block would you need to use to run the ‘hide and move’ code?
 
 --- choices ---
 
 - ( ) 
 
---- code ---
----
-language: python
----
+```blocks3 
+hide and move
+```
+  
+- (x) 
 
-output('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, `output` is not the way to output messages to the screen.
-
- --- /feedback ---
-
+```blocks3 
+if (hide and move clicked)
+set ghost effect to 100 and then go to random position
+```
 
 - ( ) 
 
---- code ---
----
-language: python
----
-
-print('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
-
-- (x) 
-
---- code ---
----
-language: python
----
-
-print('Hello', world)
-
---- /code ---
-
- --- feedback ---
-
- That's correct, in Python `print` outputs messages to the screen. The text output is inside single quotes `'` , a comma separates the two items and provides a space, then the `world` variable is called, which stores the earth emoji 🌍🌎🌏, like in your project.
-
- --- /feedback ---
-
-- ( )
-
---- code ---
----
-language: python
----
-
-print(Hello, world)
-
---- /code ---
-
- --- feedback ---
-
-  Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
+```blocks3 set ghost effect to (100)
+go to (random position v)
+```
 
 --- /choices ---
 
