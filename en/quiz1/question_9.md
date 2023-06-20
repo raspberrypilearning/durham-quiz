@@ -15,6 +15,7 @@ Which one of these is used to display the text `Hello World!` to the user?
 language: python
 ---
 show("Hello World!`)
+
 --- /code ---
 
 - (x)
@@ -34,6 +35,7 @@ print("Hello World!`)
 language: python
 ---
 output("Hello World!`)
+
 --- /code ---
 
 --- /choices ---
