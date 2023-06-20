@@ -2,7 +2,7 @@
 --- question ---
 
 ---
-legend: Question 16 of 24
+legend: Question 7 of 24
 ---
 
 Which of these would make text display above a sprite? 
