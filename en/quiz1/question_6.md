@@ -4,7 +4,7 @@
 legend: Question 6 of 24
 ---
 
-Which one of these is used to display the text `Hello World!` to the user?
+Which one of these is Python code that allows the user to enter text that can be used by the program?
 
 --- choices ---
 
@@ -14,17 +14,7 @@ Which one of these is used to display the text `Hello World!` to the user?
 ---
 language: python
 ---
-show("Hello World!")
-
---- /code ---
-
-- (x)
-
---- code ---
----
-language: python
----
-print("Hello World!")
+get("Enter your name: ")
 
 --- /code ---
 
@@ -34,7 +24,17 @@ print("Hello World!")
 ---
 language: python
 ---
-output("Hello World!")
+name("Enter your name: ")
+
+--- /code ---
+
+- (x)
+
+--- code ---
+---
+language: python
+---
+input("Enter your name: ")
 
 --- /code ---
 
