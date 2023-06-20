@@ -1,3 +1,4 @@
+## Quick quiz
 
 --- question ---
 
@@ -5,21 +6,31 @@
 legend: Question 4 of 24
 ---
 
-What would the user experience when the sprite is clicked?
+A Scratch project uses these blocks. 
 
 ```blocks3
-when this sprite clicked
-say [Hi!]
+when flag clicked
+say [Hi!] for (3) seconds
+set [name v] to [???] 
+ask [What's your name?] and wait 
+set [name v] to (answer)
+say [Your name is] for (1) seconds
+say (answer) for (2) seconds
 ```
+
+Vasu enters her name.
+
+How long is Vasu's name shown for?
 
 --- choices ---
 
-- ( ) An audio recording of a voice speaking the word 'Hi!' will be played through the computer's speakers
+- ( ) 1 second
 
-- (x) Text will appear in a speech bubble above the sprite
+- (x) 2 seconds
 
-- ( ) A microphone symbol will show and the user can make a recording
+- ( ) 3 seconds
 
 --- /choices ---
 
 --- /question ---
+
