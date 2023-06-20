@@ -14,7 +14,7 @@ Which one of these is used to display the text `Hello World!` to the user?
 ---
 language: python
 ---
-show("Hello World!`)
+show("Hello World!")
 
 --- /code ---
 
@@ -24,7 +24,7 @@ show("Hello World!`)
 ---
 language: python
 ---
-print("Hello World!`)
+print("Hello World!")
 
 --- /code ---
 
@@ -34,7 +34,7 @@ print("Hello World!`)
 ---
 language: python
 ---
-output("Hello World!`)
+output("Hello World!")
 
 --- /code ---
 
