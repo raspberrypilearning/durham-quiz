@@ -8,7 +8,8 @@ Which one of these is used to display the text `Hello World!` to the user?
 
 --- choices ---
 
-- ( ) 
+- ( )
+
 --- code ---
 ---
 language: python
@@ -16,7 +17,8 @@ language: python
 show("Hello World!`)
 --- /code ---
 
-- (x) 
+- (x)
+
 --- code ---
 ---
 language: python
@@ -24,7 +26,8 @@ language: python
 print("Hello World!`)
 --- /code ---
 
-- (x) 
+- ( )
+
 --- code ---
 ---
 language: python
