@@ -16,13 +16,13 @@ Which block would you need to use to run the ‘hide and move’ code?
 
 --- choices ---
 
-- ( ) 
+- (x) 
 
 ```blocks3 
 hide and move
 ```
   
-- (x) 
+- ( ) 
 
 ```blocks3 
 if (hide and move clicked)
