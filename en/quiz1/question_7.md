@@ -24,7 +24,7 @@ say [score] for (2) seconds
 - ( )
 ```blocks3
 when this sprite clicked
-set (score) to (2)
+set (score v) to (2)
 ```
 
 --- /choices ---
