@@ -1,101 +1,27 @@
-## Quick quiz
-
-Answer the three questions. There are hints to guide you to the correct answer.
-
-When you have answered each question, click on **Check my answer**. 
-
-Have fun!
-
 --- question ---
+
 ---
 legend: Question 11 of 24
 ---
 
-This code sets the `world` variable to contain the text '🌍🌎🌏' (the three different world emoji):
+Here is a script used as a timer in a game
 
---- code ---
----
-language: python
----
+```blocks3when flag clicked
+set (countdown v) to (10)
+repeat until <(countdown) < (1)>
+wait (1) seconds
+change (countdown v) by (-1)
+```
 
-world = '🌍🌎🌏'
-
---- /code ---
-
-Which code correctly uses the `world` variable and outputs Hello 🌍🌎🌏?
-
-![The output area from the Trinket editor with Hello 🌍🌎🌏 showing.](images/quiz1.png)
+What will be the value of the ‘countdown’ variable after the script completes?
 
 --- choices ---
 
-- ( ) 
+( ) 10
 
---- code ---
----
-language: python
----
+(x) 0
 
-output('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, `output` is not the way to output messages to the screen.
-
- --- /feedback ---
-
-
-- ( ) 
-
---- code ---
----
-language: python
----
-
-print('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
-
-- (x) 
-
---- code ---
----
-language: python
----
-
-print('Hello', world)
-
---- /code ---
-
- --- feedback ---
-
- That's correct, in Python `print` outputs messages to the screen. The text output is inside single quotes `'` , a comma separates the two items and provides a space, then the `world` variable is called, which stores the earth emoji 🌍🌎🌏, like in your project.
-
- --- /feedback ---
-
-- ( )
-
---- code ---
----
-language: python
----
-
-print(Hello, world)
-
---- /code ---
-
- --- feedback ---
-
-  Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
+( ) 1
 
 --- /choices ---
 
