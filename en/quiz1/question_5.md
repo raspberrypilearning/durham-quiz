@@ -5,7 +5,7 @@
 legend: Question 5 of 24
 ---
 
-Which of these blocks needs the user to do something to control the sprite? 
+Which of these scripts needs the user to do something to control the sprite? 
 
 --- choices ---
 

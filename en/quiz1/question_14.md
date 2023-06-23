@@ -1,101 +1,43 @@
-## Quick quiz
-
-Answer the three questions. There are hints to guide you to the correct answer.
-
-When you have answered each question, click on **Check my answer**. 
-
-Have fun!
-
 --- question ---
----
-legend: Question 1 of 24
----
 
-This code sets the `world` variable to contain the text '🌍🌎🌏' (the three different world emoji):
-
---- code ---
 ---
-language: python
+legend: Question 14 of 24
 ---
 
-world = '🌍🌎🌏'
+The butterfly is pointing towards the doughnut.
 
---- /code ---
+![](images/butterfly.png)
 
-Which code correctly uses the `world` variable and outputs Hello 🌍🌎🌏?
-
-![The output area from the Trinket editor with Hello 🌍🌎🌏 showing.](images/quiz1.png)
+Which of these Scratch scripts will get the butterfly to the flower?
 
 --- choices ---
 
-- ( ) 
+( )
+```blocks3
+move (50) steps
+turn right (180) degrees
+move (200) steps
+turn left (180) degrees
+move (10) steps
+```
 
---- code ---
----
-language: python
----
+(x) 
+```blocks3
+move (200) steps
+turn right (90) degrees
+move (200) steps
+turn left (90) degrees
+move (200) steps
+```
 
-output('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, `output` is not the way to output messages to the screen.
-
- --- /feedback ---
-
-
-- ( ) 
-
---- code ---
----
-language: python
----
-
-print('Hello' world)
-
---- /code ---
-
- --- feedback ---
-
- Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
-
-- (x) 
-
---- code ---
----
-language: python
----
-
-print('Hello', world)
-
---- /code ---
-
- --- feedback ---
-
- That's correct, in Python `print` outputs messages to the screen. The text output is inside single quotes `'` , a comma separates the two items and provides a space, then the `world` variable is called, which stores the earth emoji 🌍🌎🌏, like in your project.
-
- --- /feedback ---
-
-- ( )
-
---- code ---
----
-language: python
----
-
-print(Hello, world)
-
---- /code ---
-
- --- feedback ---
-
-  Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
-
- --- /feedback ---
+( ) 
+```blocks3
+move (200) steps
+move (200) steps
+turn right (90) degrees
+turn right (90) degrees
+move (200) steps
+```
 
 --- /choices ---
 

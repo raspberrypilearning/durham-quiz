@@ -20,22 +20,10 @@ What will be the value of the `name`{:class="block3variables"} variable after th
 --- choices ---
 
 - ( ) ???
- 
-  --- feedback ---
-
-  --- /feedback ---
 
 - ( ) answer
 
-  --- feedback ---
-
-  --- /feedback ---
-
 - (x) Divya
-
-  --- feedback ---
-
-  --- /feedback ---
 
 --- /choices ---
 
