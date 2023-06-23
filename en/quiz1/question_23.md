@@ -8,7 +8,7 @@ In your project, you have used these blocks on a button sprite.
 
 ```blocks3
 define hide and move
-set (ghost v) effect to (100)
+set [ghost v] effect to (100)
 go to (random position v)
 ```
 
