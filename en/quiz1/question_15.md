@@ -4,40 +4,42 @@
 legend: Question 15 of 24
 ---
 
-A turtle is facing right. 
+Which one of these blocks of Python code will print the word `Hello`?
 
-![](images/turtle.png)
+--- choices ---
 
-What shape will the following sequence of Python instructions draw?
-
+- ( )
 --- code ---
 ---
 language: python
 ---
-forward(100)
-right(90)
-forward(100)
-right(90)
-forward(100)
-right(90)
-forward(100)
-right(45)
-forward(71)
-right(90)
-forward(71)
-
+word = " "
+word = "Hello"
+word = "Goodbye"
+print(word)
 --- /code ---
 
---- choices ---
-
 - (x)
-![](images/turtleA.png)
+--- code ---
+---
+language: python
+---
+word = "Goodbye"
+word = " "
+word = "Hello"
+print(word)
+--- /code ---
 
 - ( )
-![](images/turtleB.png)
-
-- ( )
-![](images/turtleC.png)
+--- code ---
+---
+language: python
+---
+word = " "
+print(word)
+word = "Goodbye"
+word = "Hello"
+--- /code ---
 
 --- /choices ---
 
