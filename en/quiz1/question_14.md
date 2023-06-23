@@ -9,30 +9,34 @@ The butterfly is pointing towards the doughnut.
 ![](images/butterfly.png)
 
 Which of these Scratch scripts will get the butterfly to the flower?
-TODO: image in and scripts below
+
 --- choices ---
 
 ( )
 ```blocks3
-when flag clicked
-change (color v) effect by (10)
-show
-hide```
-
-( ) 
-```blocks3
-when flag clicked
-show
-hide
-change (color v) effect by (10)
+move (50) steps
+turn right (180) degrees
+move (200) steps
+turn left (180) degrees
+move (10) steps
 ```
 
 (x) 
 ```blocks3
-when flag clicked
-hide
-change (color v) effect by (10)
-show
+move (200) steps
+turn right (90) degrees
+move (200) steps
+turn left (90) degrees
+move (200) steps
+```
+
+( ) 
+```blocks3
+move (200) steps
+move (200) steps
+turn right (90) degrees
+turn right (90) degrees
+move (200) steps
 ```
 
 --- /choices ---
