@@ -18,7 +18,7 @@ print (score)
 - (x)
 ```blocks3
 when this sprite clicked
-say [score] for (2) seconds
+say (score) for (2) seconds
 ```
 
 - ( )
