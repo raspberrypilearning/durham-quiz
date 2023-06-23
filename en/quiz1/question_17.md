@@ -1,44 +1,32 @@
+
 --- question ---
 
 ---
 legend: Question 17 of 24
 ---
 
-You use this script to control what happens when a sprite touches a button
-
-```blocks3
-when flag clicked
-forever
-if <touching [up button v]> then
-change y by (10)
-end
-if <touching [down button v]> then
-change y by (-10)
-```
-
-Which block would you use to `change y by ()`{:class='block3motion'} `1` at all other times?
-
---- choices ---
-
-- ( )
+Here is a Scratch script.
 
 ```blocks3
 when this sprite clicked
-```
-
-- ( )
-
-```blocks3
-broadcast [change y v]
-```
- 
-- (x)
-
-```blocks3
-if <> then
-else
+if <(score)> [10]> then 
+say [Yes!] for [2] seconds 
+else 
+if <(score)> [100]> then 
+say [Wow!] for [2] seconds 
+end
 end
 ```
+
+If the value of the `score`{:class="block3variables"} variable is `150`, what will happen when the player clicks on the sprite?
+
+--- choices ---
+
+- (x) The sprite will `say`{:class="block3looks"} `Yes!`
+
+- ( ) The sprite will `say`{:class="block3looks"} `Wow!`
+
+- ( ) The `score`{:class="block3variables"} variable will be set to `100`
 
 --- /choices ---
 
