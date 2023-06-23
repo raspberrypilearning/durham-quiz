@@ -23,7 +23,7 @@ hide
 
 - (x)
 ```blocks3
-when (space v) key pressed 
+when [space v] key pressed
 next costume
 ```
 
