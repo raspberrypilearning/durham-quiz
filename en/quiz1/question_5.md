@@ -17,7 +17,7 @@ glide (time) secs to x: (x time) y: (y time)
 
 - ( )
 ```blocks3
-if <(Sprite2 v) = <touching (Sprite1 v)>> then
+if <touching (Sprite2 v)> then
 hide
 ```
 
