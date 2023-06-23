@@ -15,7 +15,7 @@ Which one of these scripts will end with the balloon visible on the stage?
 ( )
 ```blocks3
 when flag clicked
-change (color v) effect by (10)
+change [color v] effect by (10)
 show
 hide```
 
@@ -24,14 +24,14 @@ hide```
 when flag clicked
 show
 hide
-change (color v) effect by (10)
+change [color v] effect by (10)
 ```
 
 (x) 
 ```blocks3
 when flag clicked
 hide
-change (color v) effect by (10)
+change [color v] effect by (10)
 show
 ```
 
