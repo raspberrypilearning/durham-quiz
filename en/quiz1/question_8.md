@@ -5,7 +5,7 @@
 legend: Question 8 of 24
 ---
 
-What would someone experience when the sprite is clicked?
+What would happen when the sprite is clicked?
 
 ```blocks3
 when this sprite clicked
