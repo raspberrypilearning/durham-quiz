@@ -5,26 +5,28 @@
 legend: Question 16 of 24
 ---
 
-You use this script to control what happens when the player clicks on a sprite
+Here is a Scratch script.
 
 ```blocks3
 when this sprite clicked
 if <(score)> [10]> then 
-say [Level 2 activated!] for [2] seconds 
-else
-say [Still on Level 1!] for [2] seconds 
+say [Yes!] for [2] seconds 
+else 
+if <(score)> [100]> then 
+say [Wow!] for [2] seconds 
+end
 end
 ```
 
-If the value of the `score`{:class="block3variables"} variable is `9`, what will happen when the player clicks on the sprite?
+If the value of the `score`{:class="block3variables"} variable is `150`, what will happen when the player clicks on the sprite?
 
 --- choices ---
 
-- ( ) The sprite will `say`{:class="block3looks"} `Level 2 activated!`
+- (x) The sprite will `say`{:class="block3looks"} `Yes!`
 
-- (x) The sprite will `say`{:class="block3looks"} `Still on Level 1!`
+- ( ) The sprite will `say`{:class="block3looks"} `Wow!`
 
-- ( ) The `score`{:class="block3variables"} variable will be set to `10`
+- ( ) The `score`{:class="block3variables"} variable will be set to `100`
 
 --- /choices ---
 
