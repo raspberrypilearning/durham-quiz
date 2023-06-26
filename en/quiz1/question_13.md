@@ -8,7 +8,7 @@ A balloon sprite is used in a project.
 
 ![](images/balloon.png)
 
-Which one of these scripts will end with the balloon visible on the stage?
+Which one of these scripts will have the balloon visible on the stage after the flag is clicked?
 
 --- choices ---
 
