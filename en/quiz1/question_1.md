@@ -8,7 +8,7 @@ legend: Question 1 of 24
 
 Which of these values can be stored in a variable? 
 
-`0` , `False` , `1000` , `Aadya`
+`6` , `Tom` , `151` , `Aadya`
 
 --- choices ---
 
