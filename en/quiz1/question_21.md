@@ -4,7 +4,7 @@
 legend: Question 21 of 24
 ---
 
-What would be displayed when this code runs? 
+What is displayed after this code runs? 
 
 --- code ---
 ---
