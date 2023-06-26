@@ -5,7 +5,7 @@
 legend: Question 5 of 24
 ---
 
-Which of these scripts needs the user to do something to control the sprite? 
+Which one of these scripts needs the user to do something to control the sprite? 
 
 --- choices ---
 
