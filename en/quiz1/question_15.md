@@ -4,7 +4,7 @@
 legend: Question 15 of 24
 ---
 
-Which one of these blocks of Python code will print the word `Hello`?
+Which one of these blocks of Python code will output the word `Hello`?
 
 --- choices ---
 
