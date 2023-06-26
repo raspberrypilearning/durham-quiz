@@ -4,7 +4,7 @@
 legend: Question 23 of 24
 ---
 
-In your project, you have used these blocks on a button sprite. 
+This script is used on a button sprite.
 
 ```blocks3
 define hide and move
@@ -12,7 +12,7 @@ set [ghost v] effect to (100)
 go to (random position v)
 ```
 
-Which block would you need to use to run the ‘hide and move’ code?
+Which one of these would you need to use to run the ‘hide and move’ code?
 
 --- choices ---
 

@@ -4,7 +4,7 @@
 legend: Question 9 of 24
 ---
 
-Which one of these is used to display the text `Hello World!` to the user?
+Which one of these lines of Python code is used to display the text `Hello World!` to the user?
 
 --- choices ---
 

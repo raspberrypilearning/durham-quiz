@@ -5,7 +5,7 @@
 legend: Question 7 of 24
 ---
 
-Which of these would make text display above a sprite? 
+Which one of these scripts makes text display above a sprite? 
 
 --- choices ---
 

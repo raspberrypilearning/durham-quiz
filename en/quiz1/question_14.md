@@ -8,7 +8,7 @@ The butterfly is pointing towards the doughnut.
 
 ![](images/butterfly.png)
 
-Which of these Scratch scripts will get the butterfly to the flower?
+Which one of these Scratch scripts moves the butterfly to the flower?
 
 --- choices ---
 

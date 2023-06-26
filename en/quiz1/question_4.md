@@ -5,7 +5,7 @@
 legend: Question 4 of 24
 ---
 
-A Scratch project uses these blocks. 
+A Scratch project includes this script. 
 
 ```blocks3
 when flag clicked
