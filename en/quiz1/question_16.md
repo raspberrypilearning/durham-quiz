@@ -5,7 +5,7 @@
 legend: Question 16 of 24
 ---
 
-You use this script to control what happens when the player clicks on a sprite:
+A project uses this script to control what happens when a player clicks on a sprite:
 
 ```blocks3
 when this sprite clicked
@@ -16,7 +16,7 @@ say [Still on Level 1!] for [2] seconds
 end
 ```
 
-If the value of the `score`{:class="block3variables"} variable is `9`, what will happen when the player clicks on the sprite?
+If the value of the `score`{:class="block3variables"} variable is `9`, what happens when a player clicks on the sprite?
 
 --- choices ---
 
