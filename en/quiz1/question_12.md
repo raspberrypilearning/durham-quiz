@@ -4,7 +4,7 @@
 legend: Question 12 of 24
 ---
 
-Here is a Python script to display a message:
+Here is some Python code used to display a message.
 
 --- code ---
 ---
@@ -19,7 +19,7 @@ else
 
 --- /code ---
 
-Which one of these will be printed if the value of `answer` is 12?
+Which one of these words is output after the code runs if the value of `answer` is 12?
 
 --- choices ---
 
