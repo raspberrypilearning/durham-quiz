@@ -4,7 +4,7 @@
 legend: Question 11 of 24
 ---
 
-Here is a script used as a timer in a game
+Here is a script used as a timer in a game.
 
 ```blocks3when flag clicked
 set (countdown v) to (10)
@@ -13,7 +13,7 @@ wait (1) seconds
 change (countdown v) by (-1)
 ```
 
-What will be the value of the ‘countdown’ variable after the script completes?
+Which one of these is the value of the ‘countdown’ variable after the script completes?
 
 --- choices ---
 
