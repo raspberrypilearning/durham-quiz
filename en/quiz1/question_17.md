@@ -18,7 +18,7 @@ end
 end
 ```
 
-If the value of the `score`{:class="block3variables"} variable is `150`, what will happen when the player clicks on the sprite?
+If the value of the `score`{:class="block3variables"} variable is `150`, what happens when the player clicks on the sprite?
 
 --- choices ---
 
