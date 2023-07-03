@@ -17,11 +17,11 @@ Which one of these is the value of the ‘countdown’ variable after the script
 
 --- choices ---
 
-( ) 10
+- ( ) 10
 
-(x) 0
+- (x) 0
 
-( ) 1
+- ( ) 1
 
 --- /choices ---
 
