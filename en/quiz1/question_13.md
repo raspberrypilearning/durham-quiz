@@ -17,7 +17,8 @@ Which one of these scripts will have the balloon visible on the stage after the 
 when flag clicked
 change [color v] effect by (10)
 show
-hide```
+hide
+```
 
 - ( ) 
 ```blocks3
