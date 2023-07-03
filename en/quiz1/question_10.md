@@ -19,11 +19,11 @@ When will the mouse sprite move?
 
 --- choices ---
 
-( ) until it has moved one step
+- ( ) until it has moved one step
 
-( ) until the green flag is clicked
+- ( ) until the green flag is clicked
 
-(x) until it is not touching something yellow
+- (x) until it is not touching something yellow
 
 --- /choices ---
 

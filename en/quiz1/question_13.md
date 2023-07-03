@@ -12,14 +12,14 @@ Which one of these scripts will have the balloon visible on the stage after the 
 
 --- choices ---
 
-( )
+- ( )
 ```blocks3
 when flag clicked
 change [color v] effect by (10)
 show
 hide```
 
-( ) 
+- ( ) 
 ```blocks3
 when flag clicked
 show
@@ -27,7 +27,7 @@ hide
 change [color v] effect by (10)
 ```
 
-(x) 
+- (x) 
 ```blocks3
 when flag clicked
 hide
