@@ -6,7 +6,8 @@ legend: Question 11 of 24
 
 Here is a script used as a timer in a game.
 
-```blocks3when flag clicked
+```blocks3
+when flag clicked
 set (countdown v) to (10)
 repeat until <(countdown) < (1)>
 wait (1) seconds
