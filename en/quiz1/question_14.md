@@ -12,7 +12,7 @@ Which one of these Scratch scripts moves the butterfly to the flower?
 
 --- choices ---
 
-( )
+- ( )
 ```blocks3
 move (50) steps
 turn right (180) degrees
@@ -21,7 +21,7 @@ turn left (180) degrees
 move (10) steps
 ```
 
-(x) 
+- (x) 
 ```blocks3
 move (200) steps
 turn right (90) degrees
@@ -30,7 +30,7 @@ turn left (90) degrees
 move (200) steps
 ```
 
-( ) 
+- ( ) 
 ```blocks3
 move (200) steps
 move (200) steps
