@@ -31,7 +31,8 @@ set ghost effect to 100 and then go to random position
 
 - ( ) 
 
-```blocks3 set ghost effect to (100)
+```blocks3
+set ghost effect to (100)
 go to (random position v)
 ```
 
