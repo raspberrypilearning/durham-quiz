@@ -1,3 +1,3 @@
 ## Microbit
 
-<iframe style=“position:absolute;top:0;left:0;width:100%;height:100%;” src=“https://makecode.microbit.org/---codeembed#pub:_T46RADLHeRya” allowfullscreen=“allowfullscreen” frameborder=“0" sandbox=“allow-scripts allow-same-origin”></iframe>
+<iframe src=“https://makecode.microbit.org/---codeembed#pub:_T46RADLHeRya” allowfullscreen=“allowfullscreen” frameborder=“0" sandbox=“allow-scripts allow-same-origin”></iframe>
