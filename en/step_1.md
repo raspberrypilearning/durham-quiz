@@ -10,8 +10,9 @@ Add instructions for interacting with the embedded content here.
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
 </div>
-
-<iframe src=“https://makecode.microbit.org/---codeembed#pub:_T46RADLHeRya” allowfullscreen=“allowfullscreen” frameborder=“0" sandbox=“allow-scripts allow-same-origin”></iframe>
+<div class="scratch-preview">
+  <iframe src=“https://makecode.microbit.org/---codeembed#pub:_T46RADLHeRya” allowfullscreen=“allowfullscreen” frameborder=“0" sandbox=“allow-scripts allow-same-origin”></iframe>
+</div>
 
 --- /no-print ---
 
